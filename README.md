@@ -11,6 +11,5 @@ I'm a developer based in Estonia.<br><br>Currently Working On RRWorks - a tebex 
 ![](https://github-readme-stats.vercel.app/api?username=bot-ants&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bot-ants&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
